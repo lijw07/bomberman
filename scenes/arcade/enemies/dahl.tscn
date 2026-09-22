@@ -1,0 +1,24 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/entities/enemy.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://resources/arcade/enemy_dahl.tres" id="2"]
+
+[sub_resource type="RectangleShape2D" id="Shape"]
+size = Vector2(56, 44)
+
+[node name="Dahl" type="CharacterBody2D"]
+texture_filter = 1
+script = ExtResource("1")
+collision_layer = 8
+collision_mask = 19
+type_name = "dahl"
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("2")
+animation = &"move_down"
+autoplay = "move_down"
+position = Vector2(0, -30)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("Shape")
+position = Vector2(0, 8)

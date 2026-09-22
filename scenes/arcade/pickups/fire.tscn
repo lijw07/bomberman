@@ -1,0 +1,24 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/entities/power_up.gd" id="1"]
+[ext_resource type="Texture2D" path="res://assets/arcade/sprites/powerups.png" id="2"]
+
+[sub_resource type="RectangleShape2D" id="Shape"]
+size = Vector2(48, 48)
+
+[node name="Fire" type="Area2D"]
+texture_filter = 1
+script = ExtResource("1")
+collision_layer = 32
+collision_mask = 4
+kind = 0
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2")
+hframes = 8
+vframes = 1
+frame = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("Shape")
+position = Vector2(0, 0)

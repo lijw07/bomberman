@@ -1,0 +1,1622 @@
+{
+  "source": "animation-review-v11",
+  "source_manifest_sha256": "7b7e9e578a4eea943957835984ae541f369565783713c2ac1fb6ff628aeb5820",
+  "approval": "User approved import, scenes, collisions and removal of old art in this task",
+  "assets": [
+    {
+      "binary_alpha": true,
+      "colors": 21,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/bomber_white.png",
+      "frames": 64,
+      "height": 128,
+      "name": "bomber_white",
+      "seconds": 0.1,
+      "source": "source/bomber_white.aseprite",
+      "tags": [
+        [
+          "walk_front",
+          1,
+          8
+        ],
+        [
+          "walk_back",
+          9,
+          16
+        ],
+        [
+          "walk_right",
+          17,
+          24
+        ],
+        [
+          "walk_left",
+          25,
+          32
+        ],
+        [
+          "idle_front",
+          33,
+          36
+        ],
+        [
+          "idle_back",
+          37,
+          40
+        ],
+        [
+          "idle_right",
+          41,
+          44
+        ],
+        [
+          "idle_left",
+          45,
+          48
+        ],
+        [
+          "death",
+          49,
+          56
+        ],
+        [
+          "victory",
+          57,
+          64
+        ]
+      ],
+      "unique_frames": 42,
+      "width": 128,
+      "family": "characters",
+      "sha256_png": "2428423f4a576f6c10e2aa451e2ef933ba7cff194a5cdcaf13d51130ab1d6b28",
+      "sha256_source": "420b5686fcf2af0cbe476729b58a9875399207063c9cce5b9fdd93c9b22757f5"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 23,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/bomber_coral.png",
+      "frames": 64,
+      "height": 128,
+      "name": "bomber_coral",
+      "seconds": 0.1,
+      "source": "source/bomber_coral.aseprite",
+      "tags": [
+        [
+          "walk_front",
+          1,
+          8
+        ],
+        [
+          "walk_back",
+          9,
+          16
+        ],
+        [
+          "walk_right",
+          17,
+          24
+        ],
+        [
+          "walk_left",
+          25,
+          32
+        ],
+        [
+          "idle_front",
+          33,
+          36
+        ],
+        [
+          "idle_back",
+          37,
+          40
+        ],
+        [
+          "idle_right",
+          41,
+          44
+        ],
+        [
+          "idle_left",
+          45,
+          48
+        ],
+        [
+          "death",
+          49,
+          56
+        ],
+        [
+          "victory",
+          57,
+          64
+        ]
+      ],
+      "unique_frames": 42,
+      "width": 128,
+      "family": "characters",
+      "sha256_png": "5f6513249e1efd506b34102843eec59563206668954e96646a1c45099a09f633",
+      "sha256_source": "52a69b861a8aad6f07f501177c0efe70a48762824d6fbdbc2590a47fcd779530"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 27,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/bomber_lime.png",
+      "frames": 64,
+      "height": 128,
+      "name": "bomber_lime",
+      "seconds": 0.1,
+      "source": "source/bomber_lime.aseprite",
+      "tags": [
+        [
+          "walk_front",
+          1,
+          8
+        ],
+        [
+          "walk_back",
+          9,
+          16
+        ],
+        [
+          "walk_right",
+          17,
+          24
+        ],
+        [
+          "walk_left",
+          25,
+          32
+        ],
+        [
+          "idle_front",
+          33,
+          36
+        ],
+        [
+          "idle_back",
+          37,
+          40
+        ],
+        [
+          "idle_right",
+          41,
+          44
+        ],
+        [
+          "idle_left",
+          45,
+          48
+        ],
+        [
+          "death",
+          49,
+          56
+        ],
+        [
+          "victory",
+          57,
+          64
+        ]
+      ],
+      "unique_frames": 42,
+      "width": 128,
+      "family": "characters",
+      "sha256_png": "e37d980dc0fcc155872df5969f8957128f38aeaa2e5e5bd1d8ddb858690133bc",
+      "sha256_source": "413e2322b60048416312cfa80592c37afb5900a631b28851bd2e9e517f26ef23"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 30,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/bomber_violet.png",
+      "frames": 64,
+      "height": 128,
+      "name": "bomber_violet",
+      "seconds": 0.1,
+      "source": "source/bomber_violet.aseprite",
+      "tags": [
+        [
+          "walk_front",
+          1,
+          8
+        ],
+        [
+          "walk_back",
+          9,
+          16
+        ],
+        [
+          "walk_right",
+          17,
+          24
+        ],
+        [
+          "walk_left",
+          25,
+          32
+        ],
+        [
+          "idle_front",
+          33,
+          36
+        ],
+        [
+          "idle_back",
+          37,
+          40
+        ],
+        [
+          "idle_right",
+          41,
+          44
+        ],
+        [
+          "idle_left",
+          45,
+          48
+        ],
+        [
+          "death",
+          49,
+          56
+        ],
+        [
+          "victory",
+          57,
+          64
+        ]
+      ],
+      "unique_frames": 42,
+      "width": 128,
+      "family": "characters",
+      "sha256_png": "9f599bb1930cb0ea952b7fd8247f1a461d37821ba0040f3fd24f162c1e429a4a",
+      "sha256_source": "dc8899230f28524bf6fa797b006b0e4c15e3d61f6600b37448984c33a8f7e85d"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 25,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_ballom.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_ballom",
+      "seconds": 0.12,
+      "source": "source/enemy_ballom.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 31,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "98123dcd2800852ffbbd170738b6bec42e1acb5f1e2d4f532162a15a469d6397",
+      "sha256_source": "d6413602ccdfcc8919cf4ad8aff3dec01fdb01d894f216a63267792de73f8e60"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 14,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_onil.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_onil",
+      "seconds": 0.12,
+      "source": "source/enemy_onil.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 25,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "567e8708e8ea5aa3df1d38a393d8213faed0e2e35237d629260c22a0a8590f06",
+      "sha256_source": "fb23b074ada049ce39198841c5a466dd65d30a9c78a1e05abebb1c6cc54e20c7"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 12,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_dahl.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_dahl",
+      "seconds": 0.12,
+      "source": "source/enemy_dahl.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 22,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "56c1240ae03bc10ea73ad0a88724ec4396b62e1602c3c5503acd8ec5bfcf4eec",
+      "sha256_source": "eebacdd022a4f7df0127e93a61aa8db1372caf27ee6df9924d7d7f1eb3856cbe"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 20,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_minvo.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_minvo",
+      "seconds": 0.12,
+      "source": "source/enemy_minvo.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 22,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "18c31399c2d81ff53bbeba836e98fa552c61059e42d0252b64c6c93ddd82ad8f",
+      "sha256_source": "c4167f3878c8ab29fd59a4c5a11ba90a65e749322664ca6c3f130449b1b42b8d"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 10,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_doria.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_doria",
+      "seconds": 0.12,
+      "source": "source/enemy_doria.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 31,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "2165d7c5f968138afe9350a7024ab6c97be0ede86015e190164c7dad764de6b3",
+      "sha256_source": "97caa2892db5c289d59a26ca0d06b065bb32cb206bdb4c05e8dfa32998fd29cb"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 12,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_ovape.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_ovape",
+      "seconds": 0.12,
+      "source": "source/enemy_ovape.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 31,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "1d092ce99fc45db797711974100b2db3a8f2e581a3ba079c9f8fc3db74bbce61",
+      "sha256_source": "3302589b52b59573e03e924e504f9ce7b6d861a144a0c3a4498ebcbff45aaddb"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 15,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_pass.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_pass",
+      "seconds": 0.12,
+      "source": "source/enemy_pass.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 31,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "0ce5ca5b6276d63017899abc55118ff6727c779905c385d98bbcd0a32ad3d934",
+      "sha256_source": "5deb4ff64b09ea1b2703536d442fc95729630200107b55d9f47f5ede0b271777"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 16,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/enemy_pontan.png",
+      "frames": 40,
+      "height": 128,
+      "name": "enemy_pontan",
+      "seconds": 0.12,
+      "source": "source/enemy_pontan.aseprite",
+      "tags": [
+        [
+          "move_down",
+          1,
+          8
+        ],
+        [
+          "move_up",
+          9,
+          16
+        ],
+        [
+          "move_right",
+          17,
+          24
+        ],
+        [
+          "move_left",
+          25,
+          32
+        ],
+        [
+          "death",
+          33,
+          40
+        ]
+      ],
+      "unique_frames": 16,
+      "width": 128,
+      "family": "enemies",
+      "sha256_png": "4a9a52bbfcc4ec8d4af744f3b88b87b01ffa0f4fd40aa65c827f73be8fd49069",
+      "sha256_source": "51403bdee1446cb3b535eeed5a0c3f02c3dc1a8ae5a767842dd3f708cde8c5ae"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 43,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/terrain.png",
+      "frames": 8,
+      "height": 64,
+      "name": "terrain",
+      "seconds": 0.12,
+      "source": "source/terrain.aseprite",
+      "tags": [],
+      "unique_frames": 8,
+      "width": 64,
+      "family": "world",
+      "sha256_png": "8197ad88ff4c4eb7ed3b91d9933423b0b2a18de900bf852806d1af069866459c",
+      "sha256_source": "03729072479e7d664794caf4e12d559fd52ddd62393e9fde0cdf9aee320754a9"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 39,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/exit-open.png",
+      "frames": 8,
+      "height": 64,
+      "name": "exit-open",
+      "seconds": 0.14,
+      "source": "source/exit-open.aseprite",
+      "tags": [
+        [
+          "glow",
+          1,
+          8
+        ]
+      ],
+      "unique_frames": 2,
+      "width": 64,
+      "family": "world",
+      "sha256_png": "bcf07ce4b92df300761d19cd1fa9fc8c8e89d949b019be3b0a07ae4640d9cdc2",
+      "sha256_source": "c90ede6d83b230a2cb3e1cdf855eaa9fee9d8120ea01b0e7072ed9b7cd87172f"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 18,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/bomb.png",
+      "frames": 8,
+      "height": 64,
+      "name": "bomb",
+      "seconds": 0.12,
+      "source": "source/bomb.aseprite",
+      "tags": [
+        [
+          "fuse",
+          1,
+          8
+        ]
+      ],
+      "unique_frames": 7,
+      "width": 64,
+      "family": "world",
+      "sha256_png": "3e2faf87cf02e021956cd75a39c1e18f82aa3608d12e445828c06f334da3dfcb",
+      "sha256_source": "38daad6be2acea10e7a3b330ea61367db765a0fe853d633d328a9bc0170d7015"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 7,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/explosion.png",
+      "frames": 24,
+      "height": 64,
+      "name": "explosion",
+      "seconds": 0.075,
+      "source": "source/explosion.aseprite",
+      "tags": [
+        [
+          "center",
+          1,
+          8
+        ],
+        [
+          "arm",
+          9,
+          16
+        ],
+        [
+          "tip",
+          17,
+          24
+        ]
+      ],
+      "unique_frames": 22,
+      "width": 64,
+      "family": "world",
+      "sha256_png": "40d6015dcedc0d1e1669b89032ae1286f27798e20fb8c3340f86e47c5434adde",
+      "sha256_source": "e1746e62b4025f1d55a4b4a95dcef988ada3e12806affa93f87ccb2d966e9d6a"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 17,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/brick-break.png",
+      "frames": 8,
+      "height": 128,
+      "name": "brick-break",
+      "seconds": 0.065,
+      "source": "source/brick-break.aseprite",
+      "tags": [
+        [
+          "break",
+          1,
+          8
+        ]
+      ],
+      "unique_frames": 8,
+      "width": 128,
+      "family": "world",
+      "sha256_png": "2be459e48dd2d315011096bafb2589c51ffdc7f40689d2fc712060debd0f731a",
+      "sha256_source": "98363bf8beab0b50ae147c54b13108fb39d5dfe7b34f743c6887066490be6113"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 4,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/puff.png",
+      "frames": 8,
+      "height": 128,
+      "name": "puff",
+      "seconds": 0.075,
+      "source": "source/puff.aseprite",
+      "tags": [
+        [
+          "disappear",
+          1,
+          8
+        ]
+      ],
+      "unique_frames": 8,
+      "width": 128,
+      "family": "world",
+      "sha256_png": "dc23d9e36e142dc5c3922f2bdf45a7c687904e6cbe11e0092b82bc5a9b7e322d",
+      "sha256_source": "27bd011d0cd44837d63495b7bca5ed72a06781da665d962c61446affded18056"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 54,
+      "columns": 8,
+      "edge_pixels": 0,
+      "file": "sprites/powerups.png",
+      "frames": 8,
+      "height": 64,
+      "name": "powerups",
+      "seconds": 0.12,
+      "source": "source/powerups.aseprite",
+      "tags": [],
+      "unique_frames": 8,
+      "width": 64,
+      "family": "world",
+      "sha256_png": "4290c1ade8e5e1aa1659c1868a4f6f8ee84b0634a89cbf302c1b2a1032339e67",
+      "sha256_source": "216b0b3d2910a497d65b188b0c030844150ab1b71efbdde7e66da488f06894bb"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 51,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-menu.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-menu",
+      "seconds": 0.12,
+      "source": "source/screen-menu.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "a0708ed9c9aa2afe75000d7e748c51fe0ec3eb44710a2d335253ae7e606ca87a",
+      "sha256_source": "2992d437978512fe619bd1e929b1e0c438501101206db67f93adc3f270c9c683"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 63,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-setup.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-setup",
+      "seconds": 0.12,
+      "source": "source/screen-setup.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "a11a94f13787a608898a0c3abd7ebfdd982ae3db0a6322e60de89b8331718689",
+      "sha256_source": "92045f91a71582d9523f0ee19ed5c3c59ad5e5c932b5fa276574c4afc79faf57"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 54,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-how-to-play.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-how-to-play",
+      "seconds": 0.12,
+      "source": "source/screen-how-to-play.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "3423caa045460810d3cc011de707983464c0a681a290296130acf13309abf435",
+      "sha256_source": "85f27d5d2a78f32d5d5673b772c300de3a7b5543a7118365aa59db7c72d71231"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 96,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-battle.png",
+      "frames": 1,
+      "height": 1056,
+      "name": "screen-battle",
+      "seconds": 0.12,
+      "source": "source/screen-battle.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "347bb87c18e2edf5dc61a77d1c99ad8ae9c4e93a8c882d7faec9721cdc188ccf",
+      "sha256_source": "005f45904a92c10733001472f06cdf2d169c3c6cff742651309d4dca38d4f5c3"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 127,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-campaign.png",
+      "frames": 1,
+      "height": 1056,
+      "name": "screen-campaign",
+      "seconds": 0.12,
+      "source": "source/screen-campaign.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 2048,
+      "family": "ui",
+      "sha256_png": "7d74f89e0c136d870ccb916764a07ab64c7adaa3b65a141ff58841c7a19b2fd8",
+      "sha256_source": "49e7e3e2134fab1686693183384e03fa77899e048c638b2d572e075ba8232b17"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 113,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-results.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-results",
+      "seconds": 0.12,
+      "source": "source/screen-results.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "465c3e79d13bfb43d71e441a45139033f2a3d463c0c34fff2ec8f8a350f8092e",
+      "sha256_source": "8de9d369b399ab900b7cd9a0f09cce40333915a67fcaeb7e968a67fa3bd9658d"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 113,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-stage_clear.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-stage_clear",
+      "seconds": 0.12,
+      "source": "source/screen-stage_clear.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "9e9d79745be07b49ae901f2de58a4b3bdd37d18dc3b7d160b2edc1cd15345f39",
+      "sha256_source": "f25f634869cf2905816fc08b14480eacd8fef6d4121a6c3f5445bfe5d6636738"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 112,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-game_over.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-game_over",
+      "seconds": 0.12,
+      "source": "source/screen-game_over.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "37d6ca3e128ce43457f3930c85132b8bb292eebeba0fe408f5f77acf2e8b25d3",
+      "sha256_source": "eec82990a7888f09aeb0307e86b4d2ac41e73417c9a160107e307f34511d8848"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 113,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-stage_intro.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-stage_intro",
+      "seconds": 0.12,
+      "source": "source/screen-stage_intro.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "830b7fd829dc6cb2c50fb73d67a4f7298946e6a97be2b057725b323f754a1f4c",
+      "sha256_source": "5c03c47d80885b2d6471595dcc93fff977550b97c0ae090529219daca3719b1a"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 113,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/screen-pause.png",
+      "frames": 1,
+      "height": 768,
+      "name": "screen-pause",
+      "seconds": 0.12,
+      "source": "source/screen-pause.aseprite",
+      "tags": [],
+      "unique_frames": 1,
+      "width": 1024,
+      "family": "ui",
+      "sha256_png": "7e1d3e8ebc6ec96d5036c9c58aa1abd3a5ceb51fd67b896e44e55e3d2d2f4811",
+      "sha256_source": "330feb7fc9e647a9315133c1266f1591e75641416554d87bd27b0d5772d623b9"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 14,
+      "columns": 1,
+      "edge_pixels": 0,
+      "file": "ui/button-states.png",
+      "frames": 5,
+      "height": 68,
+      "name": "button-states",
+      "seconds": 0.12,
+      "source": "source/button-states.aseprite",
+      "tags": [],
+      "unique_frames": 5,
+      "width": 384,
+      "family": "ui",
+      "sha256_png": "a8bbf73f31ab4cee2abad70cc53a04fcb1ba3417665f560d590bbe84f49280a5",
+      "sha256_source": "aea01ae576591e7b99a37da9ec0e8a2280ad6e47c0acc8b0834a21c81eab8a5b"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 11,
+      "columns": 2,
+      "edge_pixels": 0,
+      "file": "ui/panel-states.png",
+      "frames": 4,
+      "height": 128,
+      "name": "panel-states",
+      "seconds": 0.12,
+      "source": "source/panel-states.aseprite",
+      "tags": [],
+      "unique_frames": 4,
+      "width": 256,
+      "family": "ui",
+      "sha256_png": "0caaca00f3bc790fae5650174704e766375d4802ee040e72ef88da29f1a6dfea",
+      "sha256_source": "0603fffe06858c03296238f7edc9b9e4f056600d78e98d5e455cb8e129281ed6"
+    },
+    {
+      "binary_alpha": true,
+      "colors": 6,
+      "columns": 2,
+      "edge_pixels": 0,
+      "file": "ui/round-markers.png",
+      "frames": 2,
+      "height": 24,
+      "name": "round-markers",
+      "seconds": 0.12,
+      "source": "source/round-markers.aseprite",
+      "tags": [],
+      "unique_frames": 2,
+      "width": 24,
+      "family": "ui",
+      "sha256_png": "18af629856466bfaccaff0fe385561e29802960434067fafabed136e1454f49f",
+      "sha256_source": "0a6ca4ce6c38dfef7d6adbac7a845fd4ca4012e485a28beb8f4c35c9a9be23ed"
+    }
+  ],
+  "scenes": [
+    {
+      "asset": "bomber_white",
+      "scene": "res://scenes/arcade/characters/bomber_white.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          60,
+          48
+        ],
+        "layer": 4,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "bomber_coral",
+      "scene": "res://scenes/arcade/characters/bomber_coral.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          60,
+          48
+        ],
+        "layer": 4,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "bomber_lime",
+      "scene": "res://scenes/arcade/characters/bomber_lime.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          60,
+          48
+        ],
+        "layer": 4,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "bomber_violet",
+      "scene": "res://scenes/arcade/characters/bomber_violet.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          60,
+          48
+        ],
+        "layer": 4,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "enemy_ballom",
+      "scene": "res://scenes/arcade/enemies/ballom.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "enemy_onil",
+      "scene": "res://scenes/arcade/enemies/onil.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "enemy_dahl",
+      "scene": "res://scenes/arcade/enemies/dahl.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "enemy_minvo",
+      "scene": "res://scenes/arcade/enemies/minvo.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "enemy_doria",
+      "scene": "res://scenes/arcade/enemies/doria.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 17
+      }
+    },
+    {
+      "asset": "enemy_ovape",
+      "scene": "res://scenes/arcade/enemies/ovape.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 17
+      }
+    },
+    {
+      "asset": "enemy_pass",
+      "scene": "res://scenes/arcade/enemies/pass.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 19
+      }
+    },
+    {
+      "asset": "enemy_pontan",
+      "scene": "res://scenes/arcade/enemies/pontan.tscn",
+      "collision": {
+        "type": "CharacterBody2D",
+        "size": [
+          56,
+          44
+        ],
+        "layer": 8,
+        "mask": 17
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/floor.tscn",
+      "collision": {
+        "type": "none",
+        "reason": "Decorative visual; no world blocking or detection required"
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/stone.tscn",
+      "collision": {
+        "type": "StaticBody2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 1,
+        "mask": 0
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/brick.tscn",
+      "collision": {
+        "type": "StaticBody2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 2,
+        "mask": 0
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/exit_closed.tscn",
+      "collision": {
+        "type": "StaticBody2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 1,
+        "mask": 0
+      }
+    },
+    {
+      "asset": "exit-open",
+      "scene": "res://scenes/arcade/terrain/exit_open.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 128,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/floor_2.tscn",
+      "collision": {
+        "type": "none",
+        "reason": "Decorative visual; no world blocking or detection required"
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/floor_3.tscn",
+      "collision": {
+        "type": "none",
+        "reason": "Decorative visual; no world blocking or detection required"
+      }
+    },
+    {
+      "asset": "terrain",
+      "scene": "res://scenes/arcade/terrain/vine_stone.tscn",
+      "collision": {
+        "type": "StaticBody2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 1,
+        "mask": 0
+      }
+    },
+    {
+      "asset": "bomb",
+      "scene": "res://scenes/entities/bomb.tscn",
+      "collision": {
+        "type": "StaticBody2D",
+        "size": [
+          56,
+          56
+        ],
+        "layer": 16,
+        "mask": 0
+      }
+    },
+    {
+      "asset": "explosion",
+      "scene": "res://scenes/arcade/effects/flame_center.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 64,
+        "mask": 12
+      }
+    },
+    {
+      "asset": "explosion",
+      "scene": "res://scenes/arcade/effects/flame_arm.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 64,
+        "mask": 12
+      }
+    },
+    {
+      "asset": "explosion",
+      "scene": "res://scenes/arcade/effects/flame_tip.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          64,
+          64
+        ],
+        "layer": 64,
+        "mask": 12
+      }
+    },
+    {
+      "asset": "brick-break",
+      "scene": "res://scenes/effects/brick_break.tscn",
+      "collision": {
+        "type": "none",
+        "reason": "Decorative visual; no world blocking or detection required"
+      }
+    },
+    {
+      "asset": "puff",
+      "scene": "res://scenes/effects/puff.tscn",
+      "collision": {
+        "type": "none",
+        "reason": "Decorative visual; no world blocking or detection required"
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/fire.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/bomb.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/speed.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/wall_pass.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/bomb_pass.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/remote.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/shield.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "powerups",
+      "scene": "res://scenes/arcade/pickups/mystery.tscn",
+      "collision": {
+        "type": "Area2D",
+        "size": [
+          48,
+          48
+        ],
+        "layer": 32,
+        "mask": 4
+      }
+    },
+    {
+      "asset": "screen-menu",
+      "scene": "res://scenes/arcade/ui/screen-menu.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-setup",
+      "scene": "res://scenes/arcade/ui/screen-setup.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-how-to-play",
+      "scene": "res://scenes/arcade/ui/screen-how-to-play.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-battle",
+      "scene": "res://scenes/arcade/ui/screen-battle.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-campaign",
+      "scene": "res://scenes/arcade/ui/screen-campaign.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-results",
+      "scene": "res://scenes/arcade/ui/screen-results.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-stage_clear",
+      "scene": "res://scenes/arcade/ui/screen-stage_clear.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-game_over",
+      "scene": "res://scenes/arcade/ui/screen-game_over.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-stage_intro",
+      "scene": "res://scenes/arcade/ui/screen-stage_intro.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "screen-pause",
+      "scene": "res://scenes/arcade/ui/screen-pause.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "button-states",
+      "scene": "res://scenes/arcade/ui/button-states_0.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "button-states",
+      "scene": "res://scenes/arcade/ui/button-states_1.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "button-states",
+      "scene": "res://scenes/arcade/ui/button-states_2.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "button-states",
+      "scene": "res://scenes/arcade/ui/button-states_3.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "button-states",
+      "scene": "res://scenes/arcade/ui/button-states_4.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "panel-states",
+      "scene": "res://scenes/arcade/ui/panel-states_0.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "panel-states",
+      "scene": "res://scenes/arcade/ui/panel-states_1.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "panel-states",
+      "scene": "res://scenes/arcade/ui/panel-states_2.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "panel-states",
+      "scene": "res://scenes/arcade/ui/panel-states_3.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "round-markers",
+      "scene": "res://scenes/arcade/ui/round-markers_0.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    },
+    {
+      "asset": "round-markers",
+      "scene": "res://scenes/arcade/ui/round-markers_1.tscn",
+      "collision": {
+        "type": "Control",
+        "reason": "UI uses Control hit rectangles; does not block the game world"
+      }
+    }
+  ]
+}

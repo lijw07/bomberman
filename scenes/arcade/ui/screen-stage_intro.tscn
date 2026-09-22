@@ -1,0 +1,10 @@
+[gd_scene format=3]
+
+[ext_resource type="Texture2D" path="res://assets/arcade/ui/screen-stage_intro.png" id="1"]
+
+[node name="Artwork" type="TextureRect"]
+texture_filter = 1
+offset_right = 1024.0
+offset_bottom = 768.0
+texture = ExtResource("1")
+mouse_filter = 2

@@ -1,0 +1,15 @@
+[gd_scene format=3]
+
+[ext_resource type="Texture2D" path="res://assets/arcade/ui/panel-states.png" id="1"]
+
+[sub_resource type="AtlasTexture" id="Atlas"]
+atlas = ExtResource("1")
+region = Rect2(256, 128, 256, 128)
+filter_clip = true
+
+[node name="Artwork" type="TextureRect"]
+texture_filter = 1
+offset_right = 256.0
+offset_bottom = 128.0
+texture = SubResource("Atlas")
+mouse_filter = 2

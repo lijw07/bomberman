@@ -1,0 +1,15 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/effects/frame_burst.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://resources/arcade/brick-break.tres" id="2"]
+
+[node name="BrickBreak" type="Node2D"]
+texture_filter = 1
+script = ExtResource("1")
+animation_name = &"break"
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("2")
+animation = &"break"
+autoplay = "break"
+position = Vector2(0, 0)

@@ -1,0 +1,15 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/effects/frame_burst.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://resources/arcade/puff.tres" id="2"]
+
+[node name="Puff" type="Node2D"]
+texture_filter = 1
+script = ExtResource("1")
+animation_name = &"disappear"
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("2")
+animation = &"disappear"
+autoplay = "disappear"
+position = Vector2(0, 0)

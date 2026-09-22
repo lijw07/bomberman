@@ -1,0 +1,37 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/build/
+
+# Exported web/desktop builds
+/export/
+/exports/
+*.pck
+*.zip
+
+# AI assistant scratch output
+/Claude outputs/
+/art-review/
+CLAUDE.md
+.claude/
+.cursor/
+.aider*
+.chatgpt/
+*.chatgpt.md
+
+# Art source / working files
+*.aseprite
+*.ase
+*.blend
+*.blend[0-9]*
+*.xcf
+*.psd
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~

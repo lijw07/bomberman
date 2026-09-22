@@ -1,0 +1,9 @@
+[gd_scene format=3]
+
+[ext_resource type="PackedScene" path="res://scenes/arcade/characters/bomber_coral.tscn" id="1"]
+
+[ext_resource type="Script" path="res://scripts/entities/ai_bomber.gd" id="2"]
+
+[node name="AiBomber" instance=ExtResource("1")]
+
+script = ExtResource("2")

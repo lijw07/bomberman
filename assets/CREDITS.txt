@@ -1,0 +1,17 @@
+Asset credits
+
+Current visual artwork: project-specific approved arcade v11 art, developed through the art-review workflow with Aseprite. The imported PNGs match the approved sheet hashes. Editable sources and original art-direction provenance remain in art-review/animation-review-v11/. No external license is assigned to this project-specific artwork here.
+
+The superseded player, enemy, bomb and terrain sprites have been removed from active assets. Original credits are retained with the pre-import archive. The following existing audio and font remain in use:
+
+Game-over jingle: "Ninja Adventure" asset pack by Pixel-Boy / Sparklin Labs - CC0
+  https://pixel-boy.itch.io/ninja-adventure-asset-pack
+
+Music: "5 Chiptunes (Action)" by Juhani Junkala (SubspaceAudio) - CC0
+  https://opengameart.org/content/5-chiptunes-action
+
+Sound effects: "512 Sound Effects (8-bit style)" by Juhani Junkala - CC0
+  https://opengameart.org/content/512-sound-effects-8-bit-style
+
+Font: "Press Start 2P" by CodeMan38 - SIL Open Font License 1.1 (see fonts/OFL.txt)
+  https://fonts.google.com/specimen/Press+Start+2P

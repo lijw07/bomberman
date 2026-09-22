@@ -1,0 +1,23 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/entities/bomb.gd" id="1"]
+[ext_resource type="SpriteFrames" path="res://resources/arcade/bomb.tres" id="2"]
+
+[sub_resource type="RectangleShape2D" id="Shape"]
+size = Vector2(56, 56)
+
+[node name="Bomb" type="StaticBody2D"]
+texture_filter = 1
+script = ExtResource("1")
+collision_layer = 16
+collision_mask = 0
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("2")
+animation = &"fuse"
+autoplay = "fuse"
+position = Vector2(0, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("Shape")
+position = Vector2(0, 0)
